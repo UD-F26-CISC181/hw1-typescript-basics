@@ -1,5 +1,5 @@
 import {difference, celsiusToFahrenheit, whatToWear, pigLatin, getGradeMessage, circleArea, 
-    parseTime, addIfPositive, chompString} from '../src/basic';
+    parseTime, addIfPositive, chompString} "../src/hw1-ts-basics";
 
 describe('celsiusToFahrenheit function', () => {
     test('(1 pts) 0 degrees celsius is 32 degrees fahrenheit', () => {
